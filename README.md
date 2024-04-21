@@ -9,6 +9,7 @@
 # Incomplete:
 - sometimes fail, will require relaunch
 - incomplete lobby information, because their API is more complex than quantum mechanics
+- also lobby can't show AI and some "inactive" players yet
 - lobby browser not implemented
 - search bar only allows for exact name search and lobby ID
 
