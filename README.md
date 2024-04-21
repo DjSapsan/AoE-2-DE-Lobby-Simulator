@@ -20,4 +20,4 @@
 - translations
 
 # Download:
-  
+- [Releases page](https://github.com/DjSapsan/GoBalanceAgePublic/releases/tag/release)
