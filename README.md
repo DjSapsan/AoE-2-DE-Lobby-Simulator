@@ -24,4 +24,4 @@
 - translations
 - 
 # Download:
-- [Releases page](https://github.com/DjSapsan/GoBalanceAgePublic/releases/tag/release)
+- [Releases page](https://github.com/DjSapsan/AoE-2-DE-Lobby-Simulator/releases/latest)
