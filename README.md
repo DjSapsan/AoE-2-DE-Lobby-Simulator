@@ -11,7 +11,7 @@
 
 # Bugs:
 - let me know if you encounter crashes / bugs
-- 
+  
 # TODO:
 - find bugs
 - add more features, including spectating
