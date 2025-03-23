@@ -1,21 +1,23 @@
-![image](https://github.com/user-attachments/assets/da93e9ec-e177-4725-b0c9-138090e0779a)
+![image](https://github.com/user-attachments/assets/7923c76e-e35d-4e9b-a8ed-c082c43cf6a4)
+
 
 # Features:
-- **spectating possible!**  (not perfect yet)
-- **balancing for 2, 3 or 4 teams**
-- **overriding teams manually**
-- all information is available
-- sort, show, filter lobbies by title, maps or players inside
- - balance teams and paste it in game chat
-- select 1v1 / TG to show and balance, you can override Elo manually or estimate the "true" Elo.
-- join to selected lobby/match in game by clicking on it (also fixed for Linux if the configuration supports)
-- instant load of the specific lobby by ID or by player's name
-- improved GUI
-- fixed some flaws
+
+- **Check smurfs, marked by the Ⓢ icon**
+- All information is available
+- Balance for 2, 3, or 4 teams
+- Override teams manually
+- Sort, show, and filter lobbies by title, map, or players inside
+- Balance teams and paste into game chat
+- Select 1v1 or TG to show and balance; manually override Elo or estimate "true" Elo
+- Join selected lobby in-game by clicking on it (works on Linux if supported by your configuration)
+- Instantly load a specific lobby by ID or player's name
+- Make names shorter
+- Fixed various flaws
 
 # Bugs:
-- can't always load all the ongoing matches due to a bug in the Godot itself. But incremental loading is working.
-- let me know if you encounter any crashes / bugs
+- Spectating is broken and therefore disabled
+- Let me know if you encounter any crashes or bugs
 
 # TODO:
 - find bugs
